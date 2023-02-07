@@ -1,0 +1,14 @@
+com/toyota/ReactNativeFlipper.java
+ com.toyota.ReactNativeFlipper
+ com.toyota.ReactNativeFlipper$1
+ com.toyota.ReactNativeFlipper$2
+ com.toyota.ReactNativeFlipper$2$1
+com/toyota/BuildConfig.java
+ com.toyota.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/toyota/MainActivity.java
+ com.toyota.MainActivity
+com/toyota/MainApplication.java
+ com.toyota.MainApplication
+ com.toyota.MainApplication$1
